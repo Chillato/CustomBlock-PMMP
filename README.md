@@ -2,8 +2,7 @@
 Addon For Minigames
 
 # Dependency
-- InvMenu
-- DeVerion
+- FormAPI
 
 # Contact
 - https://discord.gg/8pp9xtff
