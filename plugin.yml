@@ -1,0 +1,10 @@
+name: CustomBlock
+version: 1.0.0-BETA
+api: 4.0.0
+main: CustomBlock\Loader
+author: [ChillatoDev, Akari_my]
+
+permissions:
+  ore.use:
+    description: ore list
+    default: op
